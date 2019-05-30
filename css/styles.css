@@ -1,0 +1,29 @@
+.sidebar {
+  width: 180px;
+  background-color: lightgrey;
+  height: 2000px;
+  border-right: solid lightblue 2px;
+  float: left;
+}
+
+.sidebar img {
+  width: 180px;
+}
+
+.container {
+  border-top: 100px solid lightgrey;
+  padding: 15px;
+}
+
+.one {
+  background-color: #35D680;
+}
+
+.green {
+  background-color: #BBEDB4;
+  font-family: cursive;
+}
+
+#greenCol {
+  background-color: #BBEDB4;
+}
